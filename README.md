@@ -24,3 +24,7 @@
 - Next.js 13(フレームワーク)
   - API通信
 - MongoDB
+
+### 参考
+- https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing
+- https://www.youtube.com/watch?v=wm5gMKuwSYk
