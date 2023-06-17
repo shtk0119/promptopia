@@ -16,6 +16,7 @@
 ## **使用技術**
 ### **フロントエンド**
 - Javascript
+- Typescript
 - React
 - Next.js 13(フレームワーク)
 
